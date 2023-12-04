@@ -26,3 +26,13 @@ p{
     text-align: right;
     border-radius: 10px;
 }
+
+.button {
+    background-color: black;
+    color: white;
+    width: 92px;
+    height: 70px;
+    font-size: 2.5rem;
+    margin: 10px;
+    border-radius: 15px;
+}
