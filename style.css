@@ -18,10 +18,11 @@ p{
 }
 
 #screen {
-    background-color: white;
+    background-color: rgb(199, 199, 199);
     height: 80px;
     width: 440px;
     margin: 5px;
     font-size: 4rem;
     text-align: right;
+    border-radius: 10px;
 }
