@@ -44,3 +44,7 @@ p{
 .operator{
     background-color: rgb(180, 180, 180);
 }
+
+.button:hover{
+    border: 5px solid greenyellow;
+}
