@@ -16,4 +16,4 @@ function findResult() {
     var result = eval(screen.value);
     screen.value = result;
     resultCalculated = true;
-}
+}   
